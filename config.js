@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "gửi cho bé",
-    introTitle: 'công chúa tiên',
+    introTitle: 'công chúa thư',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
