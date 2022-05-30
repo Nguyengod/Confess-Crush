@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "gửi cho bé",
-    introTitle: 'tiên',
+    introTitle: 'công chúa tiên',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -12,7 +12,7 @@ const CONFIG = {
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'tại vì mình cũng yêu bạn ❤',
+    reply: 'tại vì mình cũng yêu bạn <3',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'hôm nào rảnh, mình qua đón bạn đi chơi nha.',
     btnAccept: 'Okiiiii lun <3',
